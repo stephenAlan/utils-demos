@@ -1,4 +1,4 @@
-package com.stephen.utils;
+package com.stephen.utils.date;
 
 import java.text.DateFormat;
 import java.text.ParseException;
