@@ -7,6 +7,8 @@ import java.util.BitSet;
  * Created by stephen on 2021-03-12 10:56 .
  * Description: 布隆过滤器
  *  当 isContain() 返回false时，元素一定不存在，当返回true时，元素不一定存在
+ *  参考：https://blog.csdn.net/qq_33709582/article/details/108407706
+ *  hash算法相关：https://blog.csdn.net/qq_33709582/article/details/113337405
  */
 public class MyBloomFilter {
     // 布隆过滤器 容量
